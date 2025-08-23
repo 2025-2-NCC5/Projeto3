@@ -15,7 +15,7 @@
 ## Descrição
 
 <p align="center">
-<img src="imagens/logo.png" alt="Foodlytics" border="0">
+<img src="imagens/logo-laranja.png" alt="Foodlytics" border="0">
 </p>
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
