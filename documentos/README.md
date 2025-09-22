@@ -21,7 +21,7 @@
 
 ### Sistemas Operacionais e Computação em Nuvem
 
-<b> Maria Kassandra Alves Gomes e Leonardo Ferreira da Silva [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b> Maria Kassandra Alves Gomes e Leonardo Ferreira da Silva [Trabalho/Documento](https://github.com/2025-2-NCC5/Projeto3/blob/main/documentos/Entrega%201/Sistemas%20Operacionais%20e%20Computa%C3%A7%C3%A3o%20em%20Nuvem/Entrega%201%20-%20Configura%C3%A7%C3%A3o%20B%C3%A1sica%20de%20Ambiente%20de%20Computa%C3%A7%C3%A3o%20em%20Nuvem.pdf)</b>
 <br><br>
 
 ### Psicologia, Liderança e Soft Skills
